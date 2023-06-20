@@ -1,7 +1,7 @@
 <!-- ABOUT ME -->
 
 <div id="" align="center">
-  <img src="./assets/adamdoty-banner.png" width="100%" />
+  <img src="./assets/adamdoty-banner.webp" width="100%" />
 </div>
 <h2 align="center">Hi 👋, I'm Adam Doty</h2>
 <h3 align="center">Web Developer</h3>
