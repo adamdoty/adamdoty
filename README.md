@@ -4,7 +4,7 @@
   <img src="./assets/adamdoty-banner.webp" width="100%" />
 </div>
 <h2 align="center">Hi 👋, I'm Adam Doty</h2>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">HTML Email Developer & Content Editor</h3>
 <h4 align="left">
   I'm a passionate Web Developer focused on email marketing and content
   management. You'll find I'm eager to learn, deeply care about doing quality
