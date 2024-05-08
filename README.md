@@ -1,5 +1,5 @@
 <!-- ABOUT ME -->
-<h1>Hey folks! Adam here, on a quest to become an <a href="https://www.linkedin.com/in/adam-c-doty/">IT professional</a>! 🛠️</h1>
+<h1>Hi folks! Adam here, on a quest to become an <a href="https://www.linkedin.com/in/adam-c-doty/">IT professional</a>! 🛠️</h1>
 
 <h2>Information Technology Projects:</h2>
 
